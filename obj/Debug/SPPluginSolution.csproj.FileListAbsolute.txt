@@ -1,0 +1,8 @@
+E:\DIRECTUM\Новая папка (3)\SPPluginSolution\bin\Debug\SPPluginSolution.dll
+E:\DIRECTUM\Новая папка (3)\SPPluginSolution\bin\Debug\SPPluginSolution.pdb
+E:\DIRECTUM\Новая папка (3)\SPPluginSolution\bin\Debug\SBPluginInterfaceLibrary.dll
+E:\DIRECTUM\Новая папка (3)\SPPluginSolution\obj\Debug\SPPluginSolution.csproj.AssemblyReference.cache
+E:\DIRECTUM\Новая папка (3)\SPPluginSolution\obj\Debug\SPPluginSolution.csproj.CoreCompileInputs.cache
+E:\DIRECTUM\Новая папка (3)\SPPluginSolution\obj\Debug\SPPluginSolution.csproj.CopyComplete
+E:\DIRECTUM\Новая папка (3)\SPPluginSolution\obj\Debug\SPPluginSolution.dll
+E:\DIRECTUM\Новая папка (3)\SPPluginSolution\obj\Debug\SPPluginSolution.pdb
