@@ -4,3 +4,12 @@ E:\DIRECTUM\Новая папка (3)\SPPluginSolution\obj\x86\Debug\SPPluginSol
 E:\DIRECTUM\Новая папка (3)\SPPluginSolution\obj\x86\Debug\SPPluginSolution.dll
 E:\DIRECTUM\Новая папка (3)\SPPluginSolution\obj\x86\Debug\SPPluginSolution.pdb
 E:\DIRECTUM\Новая папка (3)\SPPluginSolution\obj\x86\Debug\SPPluginSolution.csproj.AssemblyReference.cache
+E:\DIRECTUM\Новая папка (3)\SPPluginSolution\bin\x86\Debug\CryptoPro.Sharpei.Base.dll
+E:\DIRECTUM\Новая папка (3)\SPPluginSolution\bin\x86\Debug\CryptoPro.Sharpei.ServiceModel.dll
+E:\DIRECTUM\Новая папка (3)\SPPluginSolution\bin\x86\Debug\CryptoPro.Sharpei.ServiceModel45.dll
+E:\DIRECTUM\Новая папка (3)\SPPluginSolution\bin\x86\Debug\CryptoPro.Sharpei.Xml.dll
+E:\DIRECTUM\Новая папка (3)\SPPluginSolution\bin\x86\Debug\CryptoPro.Sharpei.Base.xml
+E:\DIRECTUM\Новая папка (3)\SPPluginSolution\bin\x86\Debug\CryptoPro.Sharpei.ServiceModel.xml
+E:\DIRECTUM\Новая папка (3)\SPPluginSolution\bin\x86\Debug\CryptoPro.Sharpei.ServiceModel45.xml
+E:\DIRECTUM\Новая папка (3)\SPPluginSolution\bin\x86\Debug\CryptoPro.Sharpei.Xml.xml
+E:\DIRECTUM\Новая папка (3)\SPPluginSolution\obj\x86\Debug\SPPluginSolution.csproj.CopyComplete
